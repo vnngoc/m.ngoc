@@ -17,7 +17,7 @@ function HomePage({
 }) {
   return (
     <div>
-      <h2 className="animation-text">WEB STORAGE</h2>
+      <h2 className="animation-text">HÉ LÔ THẢO NHÓ</h2>
 
       {updateData ? (
         <>
